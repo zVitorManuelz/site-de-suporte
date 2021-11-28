@@ -1,0 +1,48 @@
+body {
+  width: 95%;
+  margin: auto;
+  background: url(480538.png) center;
+
+  font-family: 'Lato';
+  line-height: 1.5;
+  color: white;
+}
+
+main{
+  background: #00000054;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.logo, .band-name, .headline{
+  margin: 0;
+  text-align: center;
+}
+
+.informaçoes{
+  margin: 30px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.btn{
+  padding: 8px 8px;
+  width: 50px;
+  color: ##363636;
+  background: ##6495ED;
+  border: 1px solid #555;
+  border-radius: 5px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+
+}
+.bnt:hover{
+  background: #fff;
+  transition: background 1s;
+}
+
+.SiteBlindado{
+
+}
